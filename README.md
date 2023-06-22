@@ -40,16 +40,6 @@ Make sure you have the following installed:
 
 - This game was developed using the Pygame library. Learn more about Pygame and contribute to its development at [https://www.pygame.org/contribute.html](https://www.pygame.org/contribute.html).
 
-## Attribution
-
-- The car sprites and background image used in this game are obtained from external sources. Please refer to the following links to download the assets:
-
-  - Car Sprite: [Link to car sprite image](path/to/car.png)
-  - Enemy Car Sprites: [Link to enemy car sprites](path/to/enemy_cars.zip)
-  - Background Image: [Link to background image](path/to/background.png)
-
-- The game sounds used in this project are obtained from external sources and are subject to their respective licenses.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
